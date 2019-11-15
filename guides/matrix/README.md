@@ -12,7 +12,7 @@ Matrix is really a decentralized conversation store rather than a messaging prot
 
 ## Before we Begin
 
-You'll need a domain name you have DNS control over. We will be using `dentacoin.dev` as an example in this tutorial. For DNS, we recommend [Cloudflare](https://www.cloudflare.com), its free to use.
+You'll need a domain name you have DNS control over. We will be using `dentacoin.dev` as an example in this tutorial. For DNS, we recommend [Cloudflare](https://www.cloudflare.com), it's free to use.
 
 In this step, you actually use the testnet to deploy a simple web app, paying with your testnet ATK tokens. Check out the [testnet guide](../testnet.md) to request tokens. Make sure to have Akash client installed on your workstation, check [install guide](/guides/install.md) for instructions.
 
